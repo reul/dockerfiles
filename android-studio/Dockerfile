@@ -1,4 +1,5 @@
 FROM ubuntu:14.04
+MANTAINER Tiago A. Reul <tiagoreul@gmail.com>
 
 ENV DEBIAN_FRONTEND=noninteractive
 
